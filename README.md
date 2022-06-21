@@ -13,7 +13,7 @@
 <!-- * [License](#license) -->
 
 ## General Information
-- The purpose of this repository is to provide an Api to interact with the frontend part of DoggyMatch-MERN-App. [https://github.com/HeidiDragomir/DoggyMatch-MERN-App-frontend]
+- The purpose of this repository is to provide an Api to interact with the frontend part of DoggyMatch-MERN-App. https://github.com/HeidiDragomir/DoggyMatch-MERN-App-frontend
 
 ## Technologies Used
 - Node.js - version 16.15.1
