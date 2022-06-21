@@ -1,5 +1,5 @@
 # DoggyMatch Backend
-> This repository contain the Api used for DoggyMatch-App developed by Chas Academy students in Stockholm.
+> This repository contain the Api used for DoggyMatch-MERN-App developed by Chas Academy students in Stockholm.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,7 +13,7 @@
 <!-- * [License](#license) -->
 
 ## General Information
-- The purpose of this repository is to provide an Api to interact with the frontend part of DoggyMatch-App. https://github.com/cimp08/team-2-frontend/
+- The purpose of this repository is to provide an Api to interact with the frontend part of DoggyMatch-MERN-App. [https://github.com/HeidiDragomir/DoggyMatch-MERN-App-frontend]
 
 ## Technologies Used
 - Node.js - version 16.15.1
@@ -48,8 +48,6 @@ npm start
 
 5. The server runs locally at: http://localhost:5000/
 
-## Project Status
-Project is: _in progress_.
 
 ## Room for Improvement
 
@@ -63,10 +61,12 @@ Room for improvement:
 
 ## Contact
 Created by:
+
+[@HeidiDragomir](https://github.com/HeidiDragomir)
 [@RicardoCastelbon](https://github.com/RicardoCastelbon) 
 [@CemilUlay](https://github.com/cimp08)
 [@SaraAbouDabous](https://github.com/sarz2)
-[@HeidiDragomir](https://github.com/HeidiDragomir)
+
 
 ## License
 
